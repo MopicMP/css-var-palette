@@ -1,0 +1,26 @@
+{
+  "name": "css-var-palette",
+  "version": "1.0.0",
+  "description": "CSS custom property color palette system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "palette",
+    "tool",
+    "utility",
+    "var"
+  ],
+  "author": "raccoonette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MopicMP/css-var-palette.git"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
